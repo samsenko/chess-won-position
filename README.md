@@ -26,5 +26,5 @@ test data is contained in the text file chess_fens3.txt. The target features of 
 chess_results2.txt. 
 
 ## External Links
-The data used is originally from [http://www.chessgames.com/].
+The data used is originally from http://www.chessgames.com/.
 
