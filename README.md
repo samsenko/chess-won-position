@@ -20,7 +20,7 @@ model using a gradient boosting classifier is also 67%.
 
 ## Files in this Repository
 The actual training and evaluation of the model is contained in the Jupyter Notebook entitled 
-Chess_Won_Position_With_Feature_Engineering.ipynb. This notebook also contains a function called predict_result which takes as input a 
+Chess_Won_Position.ipynb. This notebook also contains a function called predict_result which takes as input a 
 string containing a position in FEN notation and prints the predicted outcome as well as the score. The input features of the training and 
 test data is contained in the text file chess_fens3.txt. The target features of the training and test data is contained in the text file 
 chess_results2.txt. 
