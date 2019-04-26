@@ -24,7 +24,7 @@ Chess_Won_Position.ipynb. This notebook also contains a function called predict_
 string containing a position in FEN notation and prints the predicted outcome as well as the score. The input data is contained in the file chess_fens3.txt. The targets are contained in the text file chess_results2.txt. 
 
 ## Future Work
-Based off of our tests, it appears that the model could be further improved by increasing the amount of data the model is trained on. Additionally, it would be interesting to use the model as the basis for a chess-playing AI (for example by using Monte Carlo tree search using this model applied to a possible position combined with the similarity of this position to previously explored positions and the average result of searches going through this position to select moves during the search).
+Based off of our tests, it appears that the model could be further improved by increasing the amount of data the model is trained on. Additionally, it would be interesting to use the model as the basis for a chess-playing AI (for example by using Monte Carlo tree search using this model in a similar way to how the neural net is used in AlphaZero).
 
 ## External Links
 The data used is originally from http://www.chessgames.com/.
